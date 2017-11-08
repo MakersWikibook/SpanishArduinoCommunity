@@ -1,2 +1,4 @@
 # SpanishArduinoCommunity
-All past events about amazing spanish maker arduino community in a timeline.
+  All past events about amazing spanish arduino community in a timeline.
+  
+  Visit https://github.com/MakersWikibook/SpanishArduinoCommunity/wiki
